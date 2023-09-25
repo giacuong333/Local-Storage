@@ -1,0 +1,30 @@
+[
+          {
+                    "id": 1,
+                    "image": "",
+                    "name": "Iphone 11",
+                    "price": "200.00",
+                    "quantity": 1
+          },
+          {
+                    "id": 2,
+                    "image": "",
+                    "name": "Airpods",
+                    "price": "100.00",
+                    "quantity": 1
+          },
+          {
+                    "id": 3,
+                    "image": "",
+                    "name": "Apple watch",
+                    "price": "120.00",
+                    "quantity": 1
+          },
+          {
+                    "id": 4,
+                    "image": "",
+                    "name": "Charger",
+                    "price": "60.00",
+                    "quantity": 1
+          } 
+]
